@@ -1,0 +1,3 @@
+sdkmanager "build-tools;30.0.0" --sdk_root=../
+sdkmanager "platforms;android-30" --sdk_root=../
+sdkmanager "cmdline-tools;latest" --sdk_root=../
